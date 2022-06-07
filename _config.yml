@@ -1,10 +1,13 @@
-title: Your awesome title
+title: INSPIRON
+theme: minima
 author: GitHub User
-email: your-email@domain.com
+email: yoyo@inpiron.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ The term front matter refers to YAML metadata that prepends the 
+ content of a file. For Jekyll, this includes generator instructions 
+ to indicate the layout style of a Markdown page (post, page, and so on). 
+ It may also include page metadata, such as the document title, or page content
+ variables, such as a blog post's author
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
